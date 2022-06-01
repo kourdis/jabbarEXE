@@ -1,0 +1,17 @@
+.main {
+    background-color: red;
+    width:50rem;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+}
+
+.box1{
+    background-color: blue;
+}
+
+td, tr{
+    text-align: center;
+}

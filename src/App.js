@@ -1,9 +1,10 @@
 import './App.css';
+import UserChoice from './operations/userChoice';
 
 function App() {
   return (
     <div>
-      <h1>this is a f change</h1>
+      <UserChoice/>
     </div>
   );
 }
